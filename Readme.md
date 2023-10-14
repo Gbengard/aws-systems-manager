@@ -8,8 +8,6 @@ The environment will be created in the us-east-1 (North Virginia) region. Please
 
 *Note:* This demo uses slightly older AMIs due to errors encountered when patching with Patch Manager on Amazon Linux 2023 and Ubuntu 22.04 at the time of writing. 
 
-*Update:* Starting from March 23rd, Amazon Linux 2023 is supported, but Ubuntu 22.04 is not. For a list of supported operating systems, please refer to the [documentation](https://docs.aws.amazon.com/systems-manager/latest/userguide/patch-manager-prerequisites.html#supported-os).
-
 ## Instructions
 
 ### Stage 1 - Creating IAM roles
