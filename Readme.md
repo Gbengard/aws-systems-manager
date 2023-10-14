@@ -121,7 +121,7 @@ To view the instances in Systems Manager, follow these steps:
 
 6. On the next page, you can observe the Operating System installed, the running SSM agent version, and the SSH key used (if one was set).
 
-	![Untitled](images/Untitled13.png)
+	![Untitled](images/Untitled13.jpg)
 
 7. By navigating to the *File system* section, you can browse the instance's file system, perform actions such as cutting, copying, or deleting files, as well as read or tail files.
 
