@@ -214,15 +214,15 @@ Documents are JSON or YAML files containing instructions for executing actions o
 
 Windows:
 
-	![Untitled](images/Untitled27.png)
+![Untitled](images/Untitled27.png)
 
 Linux:
 
-	![Untitled](images/Untitled28.png)
+![Untitled](images/Untitled28.png)
 
 MacOS:
 
-	![Untitled](images/Untitled29.png)
+![Untitled](images/Untitled29.png)
 
 19. Return to the Patch Manager, click on "AWS-PatchNowAssociation" and then click on the Execution ID.
 
