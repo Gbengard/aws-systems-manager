@@ -66,7 +66,7 @@ The environment will be created in the us-east-1 (North Virginia) region. Please
 
 10. Expand the "Advanced details" section and under "IAM instance profile", select the role you created in stage 1.
 
-    ![Untitled](images/Untitled6.png)
+    ![Untitled](images/Untitled6.jpg)
 
 11. Click on "Launch instance".
 	
@@ -99,7 +99,7 @@ To begin the process of launching an Amazon Linux 2 instance, follow these steps
 
 10. Expand the *Advanced details* and select the role you created in stage 1 under *IAM instance profile*.
 
-	![Untitled](images/Untitled10.png)
+	![Untitled](images/Untitled10.jpg)
 
 11. Finally, click on the *Launch instance* button.
 
@@ -150,7 +150,7 @@ This action will open a shell window that allows you to run commands similar to 
 sudo apt update && sudo apt upgrade
 ```
 
-	![Untitled](images/Untitled17.png)
+![Untitled](images/Untitled17.png)
 
 This command updates the package repository cache on the server (`apt update`) and upgrades any installed packages to the latest available versions in the package repository (`apt upgrade`).
 
